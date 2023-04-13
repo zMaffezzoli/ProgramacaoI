@@ -1,5 +1,4 @@
-from ponto import *
-from poligono import *
+from models import *
 
 # ===== Criar ponto =====
 ponto1 = Ponto(1, 1)

@@ -1,5 +1,4 @@
-from funcionarioEgerente import *
-from controleBonificacao import *
+from models import *
 
 #===== Criação de funcionários =====#
 funcionario1 = Funcionario("João", "101.212.442-88", 2867.90)

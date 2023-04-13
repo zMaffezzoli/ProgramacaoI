@@ -1,6 +1,5 @@
-from colors import *
-from generateWord import *
-
+from general.colors import *
+from general.generateWord import *
 
 palavra_escolhida = palavra_forca()
 digitadas = []
